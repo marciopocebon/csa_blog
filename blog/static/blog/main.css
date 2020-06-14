@@ -25,21 +25,27 @@ ul {
 }
 
 .content-section {
-  background: #ffffff;
+  background: #f7e6ff;
   padding: 10px 20px;
   border: 1px solid #dddddd;
-  border-radius: 3px;
+  border-radius: 30px;
   margin-bottom: 20px;
 }
 
-.article-title {
-  color: #444444;
+.mr-2, .mr-2:hover() {
+  color: #269900;
+    font-weight: 600;
 }
 
-a.article-title:hover {
-  color: #428bca;
+.text-muted {
+    font-weight: 500;
+}
+
+.article-title, a.article-title:hover {
+  color: #444444;
   text-decoration: none;
 }
+
 
 .article-content {
   white-space: pre-line;
