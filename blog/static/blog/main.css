@@ -3,9 +3,6 @@ body {
   margin-top: 5rem;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #444444;
-}
 
 ul {
   margin: 0;
@@ -37,9 +34,9 @@ ul {
   margin-bottom: 20px;
 }
 
-.mr-2, .mr-2:hover() {
+.author, .author:hover() {
   color: #269900;
-    font-weight: 600;
+  font-weight: 600;
 }
 
 .text-muted {
@@ -47,7 +44,7 @@ ul {
 }
 
 .article-title, a.article-title:hover {
-  color: #444444;
+  color: #00b36b;
   text-decoration: none;
 }
 
@@ -99,7 +96,8 @@ ul {
 .footer-heart{
 	text-align:center;
 	font-family: open sans, sans-serif;
-	color: #b0bec5;
+	color: #00663d;
+    font-weight: 600;
 }
 
 .footer-heart a{
