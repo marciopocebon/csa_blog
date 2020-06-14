@@ -30,6 +30,11 @@ ul {
   font-weight: 500;
 }
 
+.nav-item, .nav-item:hover, .nav-item:visited {
+  color: #66ff99
+  font-weight: 500;
+}
+
 .content-section {
   background: #f7e6ff;
   padding: 10px 20px;
