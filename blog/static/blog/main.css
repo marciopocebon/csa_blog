@@ -24,7 +24,7 @@ ul {
     box-shadow: none;
 }
 
-.navbar-brand, ..navbar-brand:hover {
+.navbar-brand, .navbar-brand:hover {
   color: #99ffbb;
   font-weight: 700;
 }
@@ -40,8 +40,8 @@ ul {
 }
 
 .nav-item-color {
-  color: #66ff99
-    font-weight: 500;
+  color: #66ff99;
+  font-weight: 500;
 }
 
 .nav-item, .nav-item:hover, .nav-item:visited {
