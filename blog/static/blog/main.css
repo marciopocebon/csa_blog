@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Sriracha&display=swap');
+
+
 body {
   background: #b3ffcc;
   margin-top: 5rem;
@@ -22,7 +25,7 @@ ul {
   font-weight: 700;
 }
 
-.navbar-nav .nav-link. {
+.nav-link, .nav-link:hover, .nav-link:visited {
   color: #66ff99
   font-weight: 500;
 }
@@ -52,11 +55,13 @@ ul {
 .article-title, a.article-title:hover {
   color: #00b36b;
   text-decoration: none;
+  font-family: 'Lobster', cursive;
 }
 
 
 .article-content {
   white-space: pre-line;
+  font-family: 'Sriracha', cursive;
 }
 
 .article-img {
@@ -93,8 +98,15 @@ ul {
   font-size: 2.5rem;
 }
 
+.text-secondary {
+    font-weight: 700;
+}
+
 .btn-outline-info {
-    color: #80ff80
+    color: #fff;
+    background-color: #80ff80;
+    border-color: #80ff80;
+    font-weight: 600;
 }
 
 .btn-secondary, .btn-secondary:hover {
