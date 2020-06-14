@@ -25,14 +25,18 @@ ul {
   font-weight: 700;
 }
 
-.nav-link a {
+.nav-link {
   color: #66ff99
   font-weight: 500;
 }
 
-.nav-item a {
+.nav-item {
   color: #66ff99
   font-weight: 500;
+}
+
+.nav-item-color {
+  color: #66ff99
 }
 
 .nav-item, .nav-item:hover, .nav-item:visited {
