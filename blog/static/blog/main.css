@@ -15,19 +15,38 @@ ul {
   background-color: #00997a;
 }
 
+.post-count {
+    font-family: cursive
+}
+
 .navbar-toggler:focus {
     outline: none;
     box-shadow: none;
 }
 
-.navbar-brand, .navbar-brand:hover {
+.navbar-brand, ..navbar-brand:hover {
   color: #99ffbb;
   font-weight: 700;
+}
+
+.nav-link {
+  color: #66ff99
+  font-weight: 500;
+}
+
+.nav-item {
+  color: #66ff99
+  font-weight: 500;
 }
 
 .nav-item-color {
   color: #66ff99
     font-weight: 500;
+}
+
+.nav-item, .nav-item:hover, .nav-item:visited {
+  color: #66ff99
+  font-weight: 500;
 }
 
 .content-section {
@@ -96,10 +115,6 @@ ul {
 
 .account-heading {
   font-size: 2.5rem;
-}
-
-.post-count {
-    font-family: cursive
 }
 
 .text-secondary {
