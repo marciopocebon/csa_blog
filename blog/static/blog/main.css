@@ -15,6 +15,11 @@ ul {
   background-color: #00997a;
 }
 
+.navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+}
+
 .navbar-brand {
   color: #99ffbb;
 }
@@ -84,3 +89,21 @@ ul {
 .account-heading {
   font-size: 2.5rem;
 }
+
+
+
+.footer {
+    background-color: none;
+}
+
+.footer-heart{
+	text-align:center;
+	font-family: open sans, sans-serif;
+	color: #b0bec5;
+}
+
+.footer-heart a{
+    color: #1aff1a;
+     text-decoration: none;}
+
+.emoji{vertical-align: middle;}
