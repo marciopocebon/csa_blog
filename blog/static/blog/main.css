@@ -19,6 +19,7 @@ ul {
 
 .navbar-brand {
   color: #99ffbb;
+  font-weight: 700;
 }
 
 .site-header .navbar-nav .nav-link.active {
@@ -34,7 +35,12 @@ ul {
   margin-bottom: 20px;
 }
 
-.author, .author:hover() {
+.author, .author:hover {
+  color: #269900;
+  font-weight: 600;
+}
+
+.mr-2, .mr-2:hover {
   color: #269900;
   font-weight: 600;
 }
