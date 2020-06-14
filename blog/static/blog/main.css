@@ -97,6 +97,18 @@ ul {
     color: #80ff80
 }
 
+.btn-secondary, .btn-secondary:hover {
+    color: #fff;
+    background-color: #990099;
+    border-color: #990099;
+    font-weight: 600;
+}
+.btn-danger, .btn-danger:hover {
+    color: #fff;
+    background-color: #cc0000;
+    border-color: #cc0000;
+    font-weight: 600;
+}
 
 .footer {
     background-color: none;
