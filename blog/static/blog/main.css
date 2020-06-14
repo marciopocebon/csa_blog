@@ -25,7 +25,7 @@ ul {
   font-weight: 700;
 }
 
-.nav-link, .nav-link:hover, .nav-link:visited {
+.navbar-expand-md .navbar-nav .nav-link {
   color: #66ff99
   font-weight: 500;
 }
