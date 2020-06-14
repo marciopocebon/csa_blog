@@ -25,7 +25,12 @@ ul {
   font-weight: 700;
 }
 
-.navbar-expand-md .navbar-nav .nav-link a {
+.nav-link a {
+  color: #66ff99
+  font-weight: 500;
+}
+
+.nav-item a {
   color: #66ff99
   font-weight: 500;
 }
